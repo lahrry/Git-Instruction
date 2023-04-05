@@ -5,6 +5,6 @@ My height is 164cm.
 I'm an only child. 
 My instagram link is [Link](https://www.instagram.com/mydear_bell/) so you can add me! 
 To choose one place that I love about UCSD is Geisel Library. I'll attach a picture below. 
-![Image](https://en.wikipedia.org/wiki/Geisel_Library#/media/File:Geisel_Library,_UCSD/b.jpg)
+![Image](https://en.wikipedia.org/wiki/Geisel_Library#/media/File:Geisel_Library,_UCSD.jpg)
 Thank you for reading my short *introduction* about my self. 
 Have a good day!
