@@ -54,10 +54,12 @@ Now this is the real part! Let's write some commands in the terminal.
 <br>
 <br>
 <br>Now try it on your own! I'll give you some lists
-<br>cd
-<br>cd~
-<br>ls -a
-<br>cp /home/linux/ieng6/cs15lsp23/public/hello.txt~/
+<br>* cd
+<br>* cd~
+<br>* ls -a
+<br>* cp /home/linux/ieng6/cs15lsp23/public/hello.txt~/
+<br>
+<br>**CONGRATS!!** Your are ready to go:)
 
 
 
