@@ -30,6 +30,10 @@ If you are using Mac, download macOS Universial version. If you are using Window
 <br>After you install open it and you will see this system page. 
 <img width="899" alt="Screen Shot 2023-04-05 at 6 23 49 PM" src="https://user-images.githubusercontent.com/62029893/230249178-4936d769-40dd-4092-97ab-6b179224f5c2.png">
 
+## Last Step : Trying Some Commands 
+
+
+
 
 
 
