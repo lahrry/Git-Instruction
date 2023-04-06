@@ -12,3 +12,8 @@ The 11 letters inside a red circle is your additional account and you will be us
 <br>Next step is to reset your password. **REMAIN IN THE PAGE THAT YOUR ARE IN!** 
 <br>This time click the "*change your password*" link shown as below.
 ![Screen Shot 2023-04-05 at 5 42 05 PM 3](https://user-images.githubusercontent.com/62029893/230245705-708cd13b-deb1-4cb7-aff8-06353ffae0fe.jpg)
+<br>
+<br> 
+Your 1st step is **almost** done!
+<br>Open your terminal if you are Mac(if you are using Window download Visual Studio Code). *I will tell you how to download VS Code later on* 
+<br>Try ssh 11DIGIT OF ADDITIONAL ACCOUNT_NAME@ieng6.ucsd.edu in your terminal. Then enter your new password. 
