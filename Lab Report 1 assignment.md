@@ -18,5 +18,6 @@ The 11 letters inside a red circle is your additional account and you will be us
 Your 1st step is **almost** done!
 <br>Open your terminal if you are Mac(if you are using Window download Visual Studio Code). *I will tell you how to download VS Code later on* 
 <br>Try ssh 11DIGIT OF ADDITIONAL ACCOUNT_NAME @ ieng6.ucsd.edu in your terminal. Then enter your new password.  
+<br>*"you can't see the password when you are typing in. You are doing it right, so no worries :)"*
 ![Image 4-5-23 at 6 06 PM](https://user-images.githubusercontent.com/62029893/230247403-6d6c0c7d-7560-4e62-b64e-b57dd56e1833.jpg)
 <br>If you are seeing this page in your terminal you are all set! **CONGRATULATION!**
