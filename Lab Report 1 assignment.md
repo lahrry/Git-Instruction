@@ -32,8 +32,25 @@ If you are using Mac, download macOS Universial version. If you are using Window
 
 ## Last Step : Trying Some Commands 
 
-
-
+Now this is the real part! Let's write some commands in the terminal. 
+<br>I'll give you some commands that you can type and follow. 
+<br>*Keep in mind you have to write after a dollar sign*
+<br>1.pwd
+<br>2.ls
+<br>3.ls -lat
+<img width="563" alt="Screen Shot 2023-04-05 at 7 01 35 PM" src="https://user-images.githubusercontent.com/62029893/230253660-1d1281e8-449b-4f93-afda-6edad694fa54.png">
+<br>Each of the command you type you can see the results like above. 
+<br>I will tell you guys the definition of each commands and give you some examples to work on 
+<br>**pwd**: print working directory 
+<br>It shows you the whole pathname of your current working directory.
+<br>EX)/home/linux/ieng6/cs15lsp23/cs15lsp23an 
+<br>
+<br>**ls**: list files or directories 
+<br>It shows you the list of files of your current working directory. 
+<br>EX)per15
+<br>
+<br>**ls -lat**: list 
+<br>“ls -lat” is a command that shows all the files that I have even the hidden ones. When I just type “ls”, ‘per15’ only appears on my terminal however, when I type “ls -lat” I can see the hidden ones including ‘per15'.
 
 
 
