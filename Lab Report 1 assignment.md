@@ -51,7 +51,13 @@ Now this is the real part! Let's write some commands in the terminal.
 <br>
 <br>**ls -lat**: list 
 <br>“ls -lat” is a command that shows all the files that I have even the hidden ones. When I just type “ls”, ‘per15’ only appears on my terminal however, when I type “ls -lat” I can see the hidden ones including ‘per15'.
-
+<br>
+<br>
+<br>Now try it on your own! I'll give you some lists
+<br>cd
+<br>cd~
+<br>ls -a
+<br>cp /home/linux/ieng6/cs15lsp23/public/hello.txt~/
 
 
 
