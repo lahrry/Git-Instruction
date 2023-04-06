@@ -12,7 +12,8 @@ The 11 letters inside a red circle is your additional account and you will be us
 <br>Next step is to reset your password. **REMAIN IN THE PAGE THAT YOUR ARE IN!** 
 <br>This time click the "*change your password*" link shown as below.
 ![Screen Shot 2023-04-05 at 5 42 05 PM 3](https://user-images.githubusercontent.com/62029893/230245705-708cd13b-deb1-4cb7-aff8-06353ffae0fe.jpg)
-<br>
+<br>Enter your username which is your 11 digit additional account name shown as below
+<img width="643" alt="Screen Shot 2023-04-05 at 6 03 07 PM" src="https://user-images.githubusercontent.com/62029893/230246958-8422b26e-33d6-422d-9422-c97bee0ff088.png">
 <br> 
 Your 1st step is **almost** done!
 <br>Open your terminal if you are Mac(if you are using Window download Visual Studio Code). *I will tell you how to download VS Code later on* 
