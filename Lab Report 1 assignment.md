@@ -35,7 +35,8 @@ If you are using Mac, download macOS Universial version. If you are using Window
 <br><img width="604" alt="Screen Shot 2023-04-08 at 12 02 04 PM" src="https://user-images.githubusercontent.com/62029893/230739945-adbedb7f-8594-4be3-a8dd-85edff8dc1f6.png">
 <br>
 <br>Then click "New Terminal" to open the terminal page in VSCode. See the picture below as well
-<br> <img width="604" alt="Screen Shot 2023-04-08 at 12 02 04 PM" src="https://user-images.githubusercontent.com/62029893/230739976-a19b0fff-785e-4797-8bef-a872c9624c4f.png">
+<br> <img width="604" alt="Screen Shot 2023-04-08 at 12 03 21 PM" src="https://user-images.githubusercontent.com/62029893/230740302-257d4879-e796-42f0-a1a6-cc30efb3b5ed.png">
+
 <br>Type "ssh cs15lsp23xx @ ieng6.uscd.edu" the 11 digit of your additional account name @ ieng6.ucsd.edu in the terminal to switch to another computer. That's what **"ssh"** does! 
 <br><img width="655" alt="Screen Shot 2023-04-08 at 11 59 13 AM" src="https://user-images.githubusercontent.com/62029893/230740033-465bf0f7-92ea-4306-a6be-8a15b4f90852.png">
 <br>Put your password below the ssh command. *YOU CAN'T SEE THE PASSWORD THAT YOU ARE TYPING* **IT'S A SECRET MODE SO JUST GO ON :)** 
