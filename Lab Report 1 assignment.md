@@ -12,11 +12,12 @@ The 11 letters inside a red circle is your additional account and you will be us
 <br>Next step is to reset your password. **REMAIN IN THE PAGE THAT YOUR ARE IN!** 
 <br>This time click the "*change your password*" link shown as below.
 <br>![Screen Shot 2023-04-05 at 5 42 05 PM 3](https://user-images.githubusercontent.com/62029893/230245705-708cd13b-deb1-4cb7-aff8-06353ffae0fe.jpg)
-<br>Enter your username which is your 11 digit additional account name shown as below
+<br>Enter your username which is your 11 digit additional account name. *It's not your UCSD username so keep that in mind*
 <br><img width="643" alt="Screen Shot 2023-04-05 at 6 03 07 PM" src="https://user-images.githubusercontent.com/62029893/230246958-8422b26e-33d6-422d-9422-c97bee0ff088.png">
 <br> 
 Your 1st step is **almost** done!
-<br>*Remain on this process if you are Mac* Open your terminal if you are Mac(if you are using Window you have to download Visual Studio Code). *I will tell you how to download VS Code later on* 
+<br>*Remain on this process if you are Mac*. 
+<br>Open your terminal if you are Mac(if you are using Window you have to download Visual Studio Code). *I will tell you how to download VS Code later on* 
 <br>Try ssh 11DIGIT OF ADDITIONAL ACCOUNT_NAME @ ieng6.ucsd.edu in your terminal. Then enter your new password.  
 <br>*"you can't see the password when you are typing in. You are doing it right, so no worries :)"*<br>
 ![Image 4-5-23 at 6 06 PM](https://user-images.githubusercontent.com/62029893/230247403-6d6c0c7d-7560-4e62-b64e-b57dd56e1833.jpg)
