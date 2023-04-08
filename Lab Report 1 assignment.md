@@ -49,6 +49,11 @@ Now this is the real part! Let's write some commands in the terminal.
 <br>1.pwd
 <br>2.ls
 <br>3.ls -lat
+<br> Windows and Mac Version using VSCode 
+<br><img width="655" alt="Screen Shot 2023-04-08 at 12 00 39 PM" src="https://user-images.githubusercontent.com/62029893/230740148-9487742a-6088-47db-aefd-1ae550ccc5c8.png">
+<br>
+<br>
+<br> Only Mac Version
 <br><img width="563" alt="Screen Shot 2023-04-05 at 7 01 35 PM" src="https://user-images.githubusercontent.com/62029893/230253660-1d1281e8-449b-4f93-afda-6edad694fa54.png">
 <br>Each of the command you type you can see the results like above. 
 <br>I will tell you guys the definition of each commands and give you some examples to work on 
