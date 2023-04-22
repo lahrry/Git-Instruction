@@ -62,3 +62,9 @@ In the terminal write :
 Then it will look like :
 <br> <img width="448" alt="Screen Shot 2023-04-22 at 1 57 06 AM" src="https://user-images.githubusercontent.com/62029893/233774290-22aa1af5-93cc-4f6c-83fe-446b9b83ae11.png">
 <br>Now visit to the link "http://localhost:2800"
+<br>
+<br>
+<br>Type ```/add-message?s=Hello```
+<br>Then you will see this page:
+<br><img width="718" alt="Screen Shot 2023-04-22 at 2 00 45 AM" src="https://user-images.githubusercontent.com/62029893/233774480-a4edf0b0-67dc-41c2-8803-780d5abc8c63.png">
+
