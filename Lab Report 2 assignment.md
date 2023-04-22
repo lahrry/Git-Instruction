@@ -1,17 +1,22 @@
 ```
 import java.io.IOException;
 import java.net.URI;
-```
+
 
 class Handler implements URLHandler{
 
   String str = " ";
+  ```
   //initializing to an empty string
+  ```
   public String handleRequest(URI url){
     System.out.println("Path: " + url.getPath());
     if(url.getPath().contains("/add-message")){
+    ```
       //after the domain, "/add-message" should be contained
+      ```
       String[] parameters = url.getQuery().split("=");
+      ```
       //in this query, key-value is separated by =. So the key parameter will be "s"
       //and the string that we will type will be the value parameter. 
       if(parameters[0].equals("s")){ //&& (parameters.length == 2)
