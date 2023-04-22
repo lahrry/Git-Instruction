@@ -68,7 +68,7 @@ Then it will look like :
 <br>Then you will see this page:
 <br><img width="718" alt="Screen Shot 2023-04-22 at 2 00 45 AM" src="https://user-images.githubusercontent.com/62029893/233774480-a4edf0b0-67dc-41c2-8803-780d5abc8c63.png">
 <br>
-<br>Type ```/add-message?s=How are you``` again
+<br>Type ```/add-message?s=How are you``` now
 <br>Let's see what we have!:
 <br><img width="758" alt="Screen Shot 2023-04-22 at 2 04 42 AM" src="https://user-images.githubusercontent.com/62029893/233774621-16e6358b-c71e-4a3e-b4d9-bdcb85e5ae0b.png">
 
