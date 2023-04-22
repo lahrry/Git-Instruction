@@ -1,7 +1,7 @@
 # Servers and Bugs <br>
 ## Part 1 : Building web server called ```StringServer```
 
-down below is code of StringServer.java 
+The code of StringServer.java 
 
 ```java
 import java.io.IOException;
