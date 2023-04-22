@@ -51,4 +51,10 @@ class StringServer {
       Server.start(port, new Handler());
   }
 }
-
+```
+Let's build and run! 
+In the terminal write :
+``` => javac Server.java StringServer.java
+    => java StringServer 2800
+    Server Started! Visit http://localhost:2800
+```
