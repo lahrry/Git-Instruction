@@ -6,7 +6,7 @@ import java.net.URI;
 class Handler implements URLHandler{
 
   String str = " ";
- <span style="color:green;">initializing to an empty string</span>
+  ![#c5f015](//initializing to an empty string)
   public String handleRequest(URI url){
     System.out.println("Path: " + url.getPath());
     if(url.getPath().contains("/add-message")){
