@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="style.css">
+```
 import java.io.IOException;
 import java.net.URI;
 
@@ -6,7 +6,7 @@ import java.net.URI;
 class Handler implements URLHandler{
 
   String str = " ";
-  <span class="my-text"> //initializing to an empty string </span>
+  //initializing to an empty string
   public String handleRequest(URI url){
     System.out.println("Path: " + url.getPath());
     if(url.getPath().contains("/add-message")){
