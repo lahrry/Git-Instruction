@@ -100,4 +100,8 @@ Then it will look like :
 <br>(9) start()
 <br>*Let's dive in more deeply!*
 <br>Now we have typed 'Hello', the value of 'str' is 'Hello\n'. When we type 'How are you' in the query, in the **handlerRequest**, method URI argument will call 'add-message/?s=How%20are%20you. If statement will determine it is true because it's URL contains '/add-message'. Then, it will split the query by "=" character. Then "s" and "How%20are%20you" is divided! Like we did above, because the key parameter is equal to "s", it will replace "%20" character in the value parameter into space. Then the type variable will be 'How are you' replacing %20 into space. Finally, 'str' will be 'str = 'Hello\n' + 'How are you\n'' with **handleRequest** method returning 'Hello\nHow are you\n'. 
+<br>
+<br>
+<br>##Part 2: Bugs
+
 
