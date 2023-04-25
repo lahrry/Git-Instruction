@@ -123,7 +123,7 @@ public class ArrayTests {
 	}
 } 
 ```
-<br>
+<br><sub>If we run the JUnit test it will show this result</sub>
 <br><img width="709" alt="Screen Shot 2023-04-24 at 7 58 29 PM" src="https://user-images.githubusercontent.com/62029893/234165050-ca007ca0-bd8d-4b19-b7df-fedee8698f80.png"> 
 
 ### 2-3) The symptom 
