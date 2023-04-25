@@ -70,7 +70,7 @@ Then it will look like :
 <br>
 <br>**Methods that is used**
 <br>*I have put comments in the code for most annotation, so let's find which methods were used in this code*
-<br>Method: it is a code that take an action on a specific task
+<br><sub>Method: it is a code that take an action on a specific task</sub>
 <br>(1) handleRequest()
 <br>(2) getPath()
 <br>(3) contains()
@@ -81,7 +81,8 @@ Then it will look like :
 <br>(8) parseInt()
 <br>(9) start()
 <br>
-<br>
+<br>*Let's dive in more deeply!*
+<br>First, we have initialized an empty string as 'str' in order to concatenate a new string when it's added which will be a Handler class's field. **handlerRequest** method who has 'URI'object as an argument will print the URL path. Then, it will check if there is "/add-message" included in the URL path. In this case, yes there is, so it will split the query by "=" character. Then "s" and "Hello" is divided! If the first parameter which is the key parameter equals to "s", it will replace "%20" character in the second parameter(value parameter) into space. However,"Hello" value has no space so the "type" value will assign "Hello" to be concatenate into 'str'.
 <br>Type ```/add-message?s=How are you``` now
 <br>Let's see what we have!:
 <br><img width="758" alt="Screen Shot 2023-04-22 at 2 04 42 AM" src="https://user-images.githubusercontent.com/62029893/233774621-16e6358b-c71e-4a3e-b4d9-bdcb85e5ae0b.png">
