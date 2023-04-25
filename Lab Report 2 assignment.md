@@ -174,7 +174,9 @@ public class ArrayTests {
 <br>(1)
 <br><img width="717" alt="Screen Shot 2023-04-24 at 8 46 04 PM" src="https://user-images.githubusercontent.com/62029893/234169678-e9fbb831-96fc-4b50-8eab-2ec1154c16f2.png">
 <br>(2)
-<br><img width="717" alt="Screen Shot 2023-04-24 at 8 45 35 PM" src="https://user-images.githubusercontent.com/62029893/234169725-1078ebc8-1cbd-40db-898e-83f3a139b1ef.png">
+<br><img width="717" alt="Screen Shot 2023-04-24 at 8 56 42 PM" src="https://user-images.githubusercontent.com/62029893/234170968-58874fdc-0465-4b6a-80d8-be5a55bd2945.png">
+<br>
+<br>=>So the symptom is if each array is index [0],[1],[2],[3], index [3],[2],[1],[0] should be changed in order, but index[0] is changed to index[3], index[1] to index[2], index[2] to index[1], and index[3] to index[0], so it is overwritten.
 
 
 ### 2-4) The bug, as the before-and-after code change
