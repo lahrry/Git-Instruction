@@ -82,7 +82,8 @@ Then it will look like :
 <br>(9) start()
 <br>
 <br>*Let's dive in more deeply!*
-<br>First, we have initialized an empty string as 'str' in order to concatenate a new string when it's added which will be a Handler class's field. **handlerRequest** method who has 'URI'object as an argument will print the URL path. Then, it will check if there is "/add-message" included in the URL path. In this case, yes there is, so it will split the query by "=" character. Then "s" and "Hello" is divided! If the first parameter which is the key parameter equals to "s", it will replace "%20" character in the second parameter(value parameter) into space. However,"Hello" value has no space so the "type" value will assign "Hello" to be concatenate into 'str'.
+<br>First, we have initialized an empty string as 'str' in order to concatenate a new string when it's added which will be a Handler class's field. **handlerRequest** method who has 'URI'object as an argument will print the URL path. Then, it will check if there is "/add-message" included in the URL path. In this case, yes there is, so it will split the query by "=" character. Then "s" and "Hello" is divided! If the first parameter which is the key parameter equals to "s", it will replace "%20" character in the second parameter(value parameter) into space. However,"Hello" value has no space so the "type" value will assign "Hello\n" to be concatenate into 'str'.
+<br>
 <br>Type ```/add-message?s=How are you``` now
 <br>Let's see what we have!:
 <br><img width="758" alt="Screen Shot 2023-04-22 at 2 04 42 AM" src="https://user-images.githubusercontent.com/62029893/233774621-16e6358b-c71e-4a3e-b4d9-bdcb85e5ae0b.png">
@@ -97,5 +98,5 @@ Then it will look like :
 <br>(7) replace()
 <br>(8) parseInt()
 <br>(9) start()
-
+<br>Now we have typed 'Hello', the value of 'str' is 'Hello\n'. When we type 'How are you' in the query, in the **handlerRequest**, method URI argument will call 'add-message/?s=How%20are%20you. If statement will determine it is true because it's URL contains '/add-message'. Then, it will split the query by "=" character. Then "s" and "How%20are%20you" is divided! Like we did above, because the key parameter is equal to "s", it will replace "%20" character in the value parameter into space. Then the type variable will be 'How are you' replacing %20 into space. Finally, 'str' will be 'str = 'Hello\n' + 'How are you\n'' with **handleRequest** method returning 'Hello\nHow are you\n'. 
 
