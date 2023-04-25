@@ -181,4 +181,23 @@ public class ArrayTests {
 <br>=>So the symptom is if each array is index [0],[1],[2],[3], index [3],[2],[1],[0] should be changed in order, but index[0] is changed to index[3], index[1] to index[2], index[2] to index[1], and index[3] to index[0]. However,it overwrites because the number in the array is changed again with the number that has already been reversed. The order must be reversed while the original array is maintained so as not to overwrite the reordered numbers.
 
 ### 2-4) The bug, as the before-and-after code change
+<br>**BEFORE**
+```java
+  static void reverseInPlace(int[] arr) {
+    for(int i = 0; i < arr.length; i += 1) {
+      arr[i] = arr[arr.length - i - 1];
+    }
+  }
+```
+<br>
+<br>**AFTER**
+```java
+  static void reverseInPlace(int[] arr) {
+    for(int i = 0; i < arr.length/2; i ++) {
+      int temp = arr[i];
+      arr[i] = arr[arr.length - 1 - i];
+      arr[arr.length - 1 - i] = temp;
+    }
+  }
+ ```
 
