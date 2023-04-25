@@ -190,7 +190,8 @@ public class ArrayTests {
   }
 ```
 <br>
-<br>**AFTER**
+<br>
+**AFTER**
 
 ```java
   static void reverseInPlace(int[] arr) {
