@@ -112,8 +112,7 @@ Then it will look like :
 <br>
 ### 2-1) A failure-inducing input
 ### 2-2) An input that **doesn't** induce a failure
-The inputs that doesn't induce a failure will be a pair of same number. It will be the same if it's reversed or not, so it won't give out any failure. 
-For example, "input1 = {1,1};" 
+The inputs that doesn't induce a failure will be a pair of same number. It will be the same if it's reversed or not, so it won't give out any failure. <br>For example, "input1 = {1,1};" 
 ```java
 public class ArrayTests {
 	@Test 
