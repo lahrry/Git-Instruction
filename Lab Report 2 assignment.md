@@ -170,5 +170,12 @@ public class ArrayTests {
 <br><img width="709" alt="Screen Shot 2023-04-24 at 7 58 29 PM" src="https://user-images.githubusercontent.com/62029893/234165050-ca007ca0-bd8d-4b19-b7df-fedee8698f80.png"> 
 
 ### 2-3) The symptom 
+<br>Let's see the output of running the tests with the input that we want them to be reversed in the output. I'll give 2 examples below. 
+<br>(1)
+<br><img width="717" alt="Screen Shot 2023-04-24 at 8 46 04 PM" src="https://user-images.githubusercontent.com/62029893/234169678-e9fbb831-96fc-4b50-8eab-2ec1154c16f2.png">
+<br>(2)
+<br><img width="717" alt="Screen Shot 2023-04-24 at 8 45 35 PM" src="https://user-images.githubusercontent.com/62029893/234169725-1078ebc8-1cbd-40db-898e-83f3a139b1ef.png">
+
+
 ### 2-4) The bug, as the before-and-after code change
 
