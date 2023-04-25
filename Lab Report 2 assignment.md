@@ -201,7 +201,11 @@ public class ArrayTests {
   }
  ```
 <br>BRIEF EXPLANATION:
-<br>for for loop condition, it is edited to 'arr.length/2' to swap the first half to the second half of the array preventing the overwriting. Then we save the value of arr[i] in the temp variable. Then we save 'arr[arr.length - 1 - i]' to arr[i], so that value of index[i] is changed to the number of the corresponding index from the end of the array. Then we save 'arr[arr.length - 1 - i] to the temp variable which switches the value that corresponds to the value in 'int temp = arr[i]'. 
+<br>for for loop condition, it is edited to 'arr.length/2' to swap the first half to the second half of the array preventing the overwriting. Then we save the value of 'arr[i]' in the temp variable. Then we save 'arr[arr.length - 1 - i]' to arr[i], so that value of index[i] is changed to the number of the corresponding index from the end of the array. Then we save 'arr[arr.length - 1 - i] to the temp variable which switches the value that corresponds to the value in 'int temp = arr[i]'. 
 <br><sub>I will attach a picture so you can understand it easily</sub>
 <br>![KakaoTalk_Photo_2023-04-24-22-00-28](https://user-images.githubusercontent.com/62029893/234178574-73c7353b-1ae6-483a-9f17-3d338366a189.jpeg)
+
+## Part 3 : What did I learned from lab
+<br>For week2, I learned how to make a simple search engine with the knowledge of path, URL, domain, query, and little bit of basic java stuffs. I also learned how to find out what function is doing what by looking at the actual url window and the code that was coded for the server.
+<br>For week3, I learned how to do failure-inducing input for the program that have bugs. I always tried to solve just looking at the code that I wrote without testing it from JUnit which give us the chance to consider more precisely putting several inputs that we can predict the errors. Comparing the failure-inducing input and input that doesn't induce a failure helps us to find bugs more fastly and precisely. 
 
