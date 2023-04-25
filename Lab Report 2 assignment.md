@@ -118,9 +118,9 @@ Then it will look like :
 <br>The inputs that doesn't induce a failure will be a pair of same number. It will be the same if it's reversed or not, so it won't give out any failure. 
 <br>For example, "input1 = {1,1};" 
 <br>
-<br><img width="709" alt="Screen Shot 2023-04-24 at 7 58 29 PM" src="https://user-images.githubusercontent.com/62029893/234165050-ca007ca0-bd8d-4b19-b7df-fedee8698f80.png">
-<br> 
-```public class ArrayTests {
+<br><img width="709" alt="Screen Shot 2023-04-24 at 7 58 29 PM" src="https://user-images.githubusercontent.com/62029893/234165050-ca007ca0-bd8d-4b19-b7df-fedee8698f80.png"> 
+```java
+public class ArrayTests {
 	@Test 
 	public void testReverseInPlace() {
     int[] input1 = {1,1};
