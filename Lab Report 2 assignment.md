@@ -126,7 +126,8 @@ public class ArrayTests {
 	}
 }
 ```
-<br><img width="714" alt="Screen Shot 2023-04-24 at 8 26 16 PM" src="https://user-images.githubusercontent.com/62029893/234167961-a804e90b-037d-4483-bd6f-c5154ca8bd51.png">
+<br><img width="714" alt="Screen Shot 2023-04-24 at 8 26 16 PM" src="https://user-images.githubusercontent.com/62029893/234167961-a804e90b-037d-4483-bd6f-c5154ca8bd51.png"><br>
+<br>
 <br>**Second failure-inducing input = {50,60,70}** <br>
 ```java
 public class ArrayTests {
@@ -138,7 +139,8 @@ public class ArrayTests {
 	}
 }
 ```
-<br><img width="714" alt="Screen Shot 2023-04-24 at 8 26 47 PM" src="https://user-images.githubusercontent.com/62029893/234168039-ca315ae0-d25c-4ef3-8663-cd1a33e60e0d.png">
+<br><img width="714" alt="Screen Shot 2023-04-24 at 8 26 47 PM" src="https://user-images.githubusercontent.com/62029893/234168039-ca315ae0-d25c-4ef3-8663-cd1a33e60e0d.png"><br>
+<br>
 <br>**Third failure-inducing input = {11,12,14}** <br>
 ```java
 public class ArrayTests {
