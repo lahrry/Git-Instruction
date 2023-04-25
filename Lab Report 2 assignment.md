@@ -178,8 +178,7 @@ public class ArrayTests {
 <br>(2)
 <br><img width="717" alt="Screen Shot 2023-04-24 at 8 56 42 PM" src="https://user-images.githubusercontent.com/62029893/234170968-58874fdc-0465-4b6a-80d8-be5a55bd2945.png">
 <br>
-<br>=>So the symptom is if each array is index [0],[1],[2],[3], index [3],[2],[1],[0] should be changed in order, but index[0] is changed to index[3], index[1] to index[2], index[2] to index[1], and index[3] to index[0], so it is overwritten.
-
+<br>=>So the symptom is if each array is index [0],[1],[2],[3], index [3],[2],[1],[0] should be changed in order, but index[0] is changed to index[3], index[1] to index[2], index[2] to index[1], and index[3] to index[0]. However,it overwrites because the number in the array is changed again with the number that has already been reversed. The order must be reversed while the original array is maintained so as not to overwrite the reordered numbers.
 
 ### 2-4) The bug, as the before-and-after code change
 
