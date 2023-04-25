@@ -110,12 +110,12 @@ Then it will look like :
 <br><img width="553" alt="Screen Shot 2023-04-24 at 8 00 14 PM" src="https://user-images.githubusercontent.com/62029893/234163869-a06c5465-2957-4f8f-910c-5d0dc50bc9ce.png">
 <br>
 <br>
-### 2-1) A failure-inducing input
+### 2-1) A failure-inducing input 
+<br>
 **"Failure-inducing input** is 'how you set things up to run the program to get that bad result'. For example, run the program with some specific method arguments, run the program with some specific command line arguments, or run the program at all from the command line. 
 
 <br>As we can see the results applying several failure-inducing inputs, we can see that while this method aims to reverse the original array in place, it actually overwrites the first array with the value from the last array.<br>
-<br>First failure-inducing input = {1,2,3}
-<br><img width="714" alt="Screen Shot 2023-04-24 at 8 26 16 PM" src="https://user-images.githubusercontent.com/62029893/234167961-a804e90b-037d-4483-bd6f-c5154ca8bd51.png">
+<br>**First failure-inducing input = {1,2,3}** <br>
 ```java
 public class ArrayTests {
 	@Test 
@@ -126,8 +126,8 @@ public class ArrayTests {
 	}
 }
 ```
-<br>Second failure-inducing input = {50,60,70}
-<br><img width="714" alt="Screen Shot 2023-04-24 at 8 26 47 PM" src="https://user-images.githubusercontent.com/62029893/234168039-ca315ae0-d25c-4ef3-8663-cd1a33e60e0d.png">
+<br><img width="714" alt="Screen Shot 2023-04-24 at 8 26 16 PM" src="https://user-images.githubusercontent.com/62029893/234167961-a804e90b-037d-4483-bd6f-c5154ca8bd51.png">
+<br>**Second failure-inducing input = {50,60,70}** <br>
 ```java
 public class ArrayTests {
 	@Test 
@@ -138,8 +138,8 @@ public class ArrayTests {
 	}
 }
 ```
-<br>Third failure-inducing input = {11,12,14}
-<br><img width="714" alt="Screen Shot 2023-04-24 at 8 27 32 PM" src="https://user-images.githubusercontent.com/62029893/234168085-17685217-985c-4ba6-9653-72efebe89d92.png">
+<br><img width="714" alt="Screen Shot 2023-04-24 at 8 26 47 PM" src="https://user-images.githubusercontent.com/62029893/234168039-ca315ae0-d25c-4ef3-8663-cd1a33e60e0d.png">
+<br>**Third failure-inducing input = {11,12,14}** <br>
 ```java
 public class ArrayTests {
 	@Test 
@@ -150,6 +150,7 @@ public class ArrayTests {
 	}
 }
 ```
+<br><img width="714" alt="Screen Shot 2023-04-24 at 8 27 32 PM" src="https://user-images.githubusercontent.com/62029893/234168085-17685217-985c-4ba6-9653-72efebe89d92.png">
 ### 2-2) An input that **doesn't** induce a failure
 The inputs that doesn't induce a failure will be a pair of same number. It will be the same if it's reversed or not, so it won't give out any failure. <br>For example, "input1 = {1,1};" 
 ```java
