@@ -102,11 +102,18 @@ Then it will look like :
 <br>Now we have typed 'Hello', the value of 'str' is 'Hello\n'. When we type 'How are you' in the query, in the **handlerRequest**, method URI argument will call 'add-message/?s=How%20are%20you. If statement will determine it is true because it's URL contains '/add-message'. Then, it will split the query by "=" character. Then "s" and "How%20are%20you" is divided! Like we did above, because the key parameter is equal to "s", it will replace "%20" character in the value parameter into space. Then the type variable will be 'How are you' replacing %20 into space. Finally, 'str' will be 'str = 'Hello\n' + 'How are you\n'' with **handleRequest** method returning 'Hello\nHow are you\n'. 
 <br>
 <br>
-<br> ##Part 2: Bugs
+<br> ## Part 2: Bugs
 <br>In part 2, we are going to look at a code that has a bug. Knowing the 'failure-inducing input' for the buggy program, the symptom and fixing the bug is very important! Let's figure these out by following below.
 <br>
 <br>The code will be the method ```reverseInPlace``` in ```ArrayExamples.java```. 
-<br>See the picture below
+<br><sub>See the picture below</sub>
 <br><img width="553" alt="Screen Shot 2023-04-24 at 8 00 14 PM" src="https://user-images.githubusercontent.com/62029893/234163869-a06c5465-2957-4f8f-910c-5d0dc50bc9ce.png">
 <br>
+<br> ### A failure-inducing input
+<br>
+<br> ### An input that **doesn't** induce a failure
+<br>
+<br> ### The symptom 
+<br>
+<br> ### The bug, as the before-and-after code change
 
