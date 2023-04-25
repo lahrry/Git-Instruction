@@ -154,7 +154,8 @@ public class ArrayTests {
 ```
 <br><img width="714" alt="Screen Shot 2023-04-24 at 8 27 32 PM" src="https://user-images.githubusercontent.com/62029893/234168085-17685217-985c-4ba6-9653-72efebe89d92.png">
 ### 2-2) An input that **doesn't** induce a failure
-The inputs that doesn't induce a failure will be a pair of same number. It will be the same if it's reversed or not, so it won't give out any failure. <br>For example, "input1 = {1,1};" 
+The inputs that doesn't induce a failure will be a pair of same number. It will be the same even the first value replaces the last value.
+<br>For example, "input1 = {1,1};" 
 ```java
 public class ArrayTests {
 	@Test 
