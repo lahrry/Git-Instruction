@@ -172,7 +172,7 @@ public class ArrayTests {
 ### 2-3) The symptom 
 <br>Let's see the output of running the tests with the input that we want them to be reversed in the output. I'll give 2 examples below. 
 <br>(1)
-<br><img width="717" alt="Screen Shot 2023-04-24 at 8 46 04 PM" src="https://user-images.githubusercontent.com/62029893/234169678-e9fbb831-96fc-4b50-8eab-2ec1154c16f2.png">
+<br><img width="717" alt="Screen Shot 2023-04-24 at 8 58 03 PM" src="https://user-images.githubusercontent.com/62029893/234171132-54107cbd-6b33-478c-8abc-7c3dc4ba4b27.png">
 <br>(2)
 <br><img width="717" alt="Screen Shot 2023-04-24 at 8 56 42 PM" src="https://user-images.githubusercontent.com/62029893/234170968-58874fdc-0465-4b6a-80d8-be5a55bd2945.png">
 <br>
