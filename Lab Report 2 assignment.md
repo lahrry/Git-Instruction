@@ -168,18 +168,6 @@ public class ArrayTests {
 ```
 <br><sub>If we run the JUnit test it will show this result</sub>
 <br><img width="709" alt="Screen Shot 2023-04-24 at 7 58 29 PM" src="https://user-images.githubusercontent.com/62029893/234165050-ca007ca0-bd8d-4b19-b7df-fedee8698f80.png"> 
-<br>Second example, "input1 = {1,2,1};"
-```java
-public class ArrayTests {
-	@Test 
-	public void testReverseInPlace() {
-    int[] input1 = {1,2,1};
-    ArrayExamples.reverseInPlace(input1);
-    assertArrayEquals(new int[]{1,2,1}, input1);
-	}
-} 
-```
-<br><img width="714" alt="Screen Shot 2023-04-24 at 8 40 18 PM" src="https://user-images.githubusercontent.com/62029893/234169178-e5350b2c-09e5-40dd-8752-2f4391ee6ac9.png">
 
 ### 2-3) The symptom 
 ### 2-4) The bug, as the before-and-after code change
