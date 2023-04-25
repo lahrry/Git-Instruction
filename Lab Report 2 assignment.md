@@ -111,8 +111,6 @@ Then it will look like :
 <br>
 <br>
 ### 2-1) A failure-inducing input
-<br>
-<br>
 ### 2-2) An input that **doesn't** induce a failure
 <br>
 <br>The inputs that doesn't induce a failure will be a pair of same number. It will be the same if it's reversed or not, so it won't give out any failure. 
@@ -120,6 +118,7 @@ Then it will look like :
 <br>
 <br><img width="709" alt="Screen Shot 2023-04-24 at 7 58 29 PM" src="https://user-images.githubusercontent.com/62029893/234165050-ca007ca0-bd8d-4b19-b7df-fedee8698f80.png"> 
 ```java
+
 public class ArrayTests {
 	@Test 
 	public void testReverseInPlace() {
@@ -128,10 +127,9 @@ public class ArrayTests {
     assertArrayEquals(new int[]{1,1}, input1);
 	}
 } 
+
 ```
-<br>
+
 ### 2-3) The symptom 
-<br>
-<br>
 ### 2-4) The bug, as the before-and-after code change
 
