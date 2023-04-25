@@ -191,6 +191,7 @@ public class ArrayTests {
 ```
 <br>
 <br>**AFTER**
+
 ```java
   static void reverseInPlace(int[] arr) {
     for(int i = 0; i < arr.length/2; i ++) {
