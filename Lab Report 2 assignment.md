@@ -68,8 +68,8 @@ Then it will look like :
 <br>Then you will see this page:
 <br><img width="718" alt="Screen Shot 2023-04-22 at 2 00 45 AM" src="https://user-images.githubusercontent.com/62029893/233774480-a4edf0b0-67dc-41c2-8803-780d5abc8c63.png">
 <br>
-<br>Finding methods that is used 
-<br> *I have put comments in the code for most annotation, so let's find which methods were used in this code*
+<br>**Methods that is used**
+<br>*I have put comments in the code for most annotation, so let's find which methods were used in this code*
 <br>Method: it is a code that take an action on a specific task
 <br>(1) handleRequest()
 <br>(2) getPath()
@@ -80,8 +80,21 @@ Then it will look like :
 <br>(7) replace()
 <br>(8) parseInt()
 <br>(9) start()
+<br>
+<br>
 <br>Type ```/add-message?s=How are you``` now
 <br>Let's see what we have!:
 <br><img width="758" alt="Screen Shot 2023-04-22 at 2 04 42 AM" src="https://user-images.githubusercontent.com/62029893/233774621-16e6358b-c71e-4a3e-b4d9-bdcb85e5ae0b.png">
+<br>
+<br>**Methods that is used**
+<br>(1) handleRequest()
+<br>(2) getPath()
+<br>(3) contains()
+<br>(4) getQuery()
+<br>(5) split()
+<br>(6) equals()
+<br>(7) replace()
+<br>(8) parseInt()
+<br>(9) start()
 
 
