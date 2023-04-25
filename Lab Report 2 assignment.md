@@ -189,8 +189,6 @@ public class ArrayTests {
     }
   }
 ```
-<br>
-<br>
 **AFTER**
 
 ```java
