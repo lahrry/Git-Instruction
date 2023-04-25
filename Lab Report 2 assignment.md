@@ -112,7 +112,7 @@ Then it will look like :
 <br>
 ### 2-1) A failure-inducing input 
 <br>
-**Failure-inducing input** is 'how you set things up to run the program to get that bad result'. For example, run the program with some specific method arguments, run the program with some specific command line arguments, or run the program at all from the command line. 
+** Failure-inducing input ** is 'how you set things up to run the program to get that bad result'. For example, run the program with some specific method arguments, run the program with some specific command line arguments, or run the program at all from the command line. 
 
 <br>As we can see the results applying several failure-inducing inputs, we can see that while this method aims to reverse the original array in place, it actually overwrites the first array with the value from the last array.<br>
 <br>**First failure-inducing input = {1,2,3}** <br>
