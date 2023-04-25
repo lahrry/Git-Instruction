@@ -116,10 +116,40 @@ Then it will look like :
 <br>As we can see the results applying several failure-inducing inputs, we can see that while this method aims to reverse the original array in place, it actually overwrites the first array with the value from the last array.<br>
 <br>First failure-inducing input = {1,2,3}
 <br><img width="714" alt="Screen Shot 2023-04-24 at 8 26 16 PM" src="https://user-images.githubusercontent.com/62029893/234167961-a804e90b-037d-4483-bd6f-c5154ca8bd51.png">
+```java
+public class ArrayTests {
+	@Test 
+	public void testReverseInPlace() {
+    int[] input1 = {1,2,3};
+    ArrayExamples.reverseInPlace(input1);
+    assertArrayEquals(new int[]{3,2,1}, input1);
+	}
+}
+```
 <br>Second failure-inducing input = {50,60,70}
 <br><img width="714" alt="Screen Shot 2023-04-24 at 8 26 47 PM" src="https://user-images.githubusercontent.com/62029893/234168039-ca315ae0-d25c-4ef3-8663-cd1a33e60e0d.png">
+```java
+public class ArrayTests {
+	@Test 
+	public void testReverseInPlace() {
+    int[] input1 = {50,60,70};
+    ArrayExamples.reverseInPlace(input1);
+    assertArrayEquals(new int[]{70,60,50}, input1);
+	}
+}
+```
 <br>Third failure-inducing input = {11,12,14}
 <br><img width="714" alt="Screen Shot 2023-04-24 at 8 27 32 PM" src="https://user-images.githubusercontent.com/62029893/234168085-17685217-985c-4ba6-9653-72efebe89d92.png">
+```java
+public class ArrayTests {
+	@Test 
+	public void testReverseInPlace() {
+    int[] input1 = {11,12,14};
+    ArrayExamples.reverseInPlace(input1);
+    assertArrayEquals(new int[]{14,12,11}, input1);
+	}
+}
+```
 ### 2-2) An input that **doesn't** induce a failure
 The inputs that doesn't induce a failure will be a pair of same number. It will be the same if it's reversed or not, so it won't give out any failure. <br>For example, "input1 = {1,1};" 
 ```java
