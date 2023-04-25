@@ -108,7 +108,7 @@ Then it will look like :
 <br>The code will be the method ```reverseInPlace``` in ```ArrayExamples.java```. 
 <br><sub>See the picture below</sub>
 <br><img width="553" alt="Screen Shot 2023-04-24 at 8 00 14 PM" src="https://user-images.githubusercontent.com/62029893/234163869-a06c5465-2957-4f8f-910c-5d0dc50bc9ce.png">
-<br>
+<br><img width="620" alt="Screen Shot 2023-04-24 at 10 10 32 PM" src="https://user-images.githubusercontent.com/62029893/234179872-a66a9d5b-2e21-416d-9e4a-ea22c5d7b281.png">
 <br>
 ### 2-1) A failure-inducing input 
 <br>
