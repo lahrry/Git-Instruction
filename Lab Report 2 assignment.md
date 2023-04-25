@@ -108,6 +108,5 @@ Then it will look like :
 <br>The code will be the method ```reverseInPlace``` in ```ArrayExamples.java```. 
 <br>See the picture below
 <br><img width="553" alt="Screen Shot 2023-04-24 at 8 00 14 PM" src="https://user-images.githubusercontent.com/62029893/234163869-a06c5465-2957-4f8f-910c-5d0dc50bc9ce.png">
-
-
+<br>
 
