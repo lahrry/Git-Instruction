@@ -19,7 +19,7 @@ Let's first clone this specific repository : https://github.com/ucsd-cse15l-s23/
 ### grep [-i] pattern [files]
 `grep -i` : Ignores, case for matching 
 We are going to compare `grep` and `grep -i` command using water_fees.txt file in the technical/government/Media directory. I'll post the absolute path to this.  /Users/bella/Desktop/git:github/cse15l/src/cse15l/docsearch/technical/government/Media/water_fees.txt 
-### First Example
+### Example One
 Let's say we want to find sentences that includes **'water'**. 
 If we run `grep water water_fees.txt`, it will search for lines that has 'water'. 
 <br><img width="479" alt="Screen Shot 2023-05-10 at 10 27 19 AM" src="https://github.com/lahrry/cse15l-lab-reports/assets/62029893/996a54f0-ecef-4b25-bbea-3efad036b18a">
@@ -30,7 +30,7 @@ If we run `grep water water_fees.txt`, it will search for lines that has 'water'
  <br><img width="105" alt="Screen Shot 2023-05-10 at 10 31 19 AM" src="https://github.com/lahrry/cse15l-lab-reports/assets/62029893/a1ac94c1-260d-41bf-a554-ca2e47084034">
 <br>There we go! We found 'water' with capital case too. `grep -i` enables to search for a string case insensitively in the given file. In this case, it matches the words like "Water", "WAter", "WaTER".  
 
-### Second Example
+### Example Two
 <br>Let's try one more command using `grep -i`. 
 <br><img width="439" alt="Screen Shot 2023-05-10 at 10 38 51 AM" src="https://github.com/lahrry/cse15l-lab-reports/assets/62029893/0049b157-23f4-4a37-a474-ad277875fb6d">
 <br>In the government folder, I searched 'local' through "Law_Schools.txt" and it searched a sentence that includes "Local" which ignored the case for matching. 
@@ -39,9 +39,13 @@ If we run `grep water water_fees.txt`, it will search for lines that has 'water'
 ### grep [-c] pattern [files]
 `grep -c` : This prints only a count of the lines that match a pattern
 Let's dive in! Use `grep -c` command through water_fees.txt file in the technical/government/Media directory. I'll post the absolute path to this.  /Users/bella/Desktop/git:github/cse15l/src/cse15l/docsearch/technical/government/Media/water_fees.txt 
+
+### Example One
 If we run `grep -c water water_fees.txt`, it will find the number of lines that matches 'water'. 
 <br><img width="439" alt="Screen Shot 2023-05-10 at 10 54 18 AM" src="https://github.com/lahrry/cse15l-lab-reports/assets/62029893/cd9dfa1b-fc7b-401b-9309-c8039d28da0e">
 <br>You can find the command outputed '9' because there is 9 lines that matches the pattern 'water'. 
+
+### Example Two
 <br>Let's find one more example of `grep -c`!
 <br>Try a command `grep -c Chris water_fees.txt`. 
 <img width="439" alt="Screen Shot 2023-05-10 at 10 54 32 AM" src="https://github.com/lahrry/cse15l-lab-reports/assets/62029893/1ed3052f-4956-4d7a-8590-58ae2ecedc1c">
