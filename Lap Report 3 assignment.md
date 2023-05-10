@@ -67,7 +67,7 @@ If we run `grep -l water *`, it will search for files in this directory that con
 ### Example Two
 <br>Let's find one more example of `grep -l`!
 <br>Try a command `grep -l Chris *`. 
-<img width="345" alt="Screen Shot 2023-05-10 at 11 14 35 AM" src="https://github.com/lahrry/cse15l-lab-reports/assets/62029893/d27652a6-d784-4307-a04b-5b70f58b1f9a">
+<br><img width="345" alt="Screen Shot 2023-05-10 at 11 14 35 AM" src="https://github.com/lahrry/cse15l-lab-reports/assets/62029893/d27652a6-d784-4307-a04b-5b70f58b1f9a">
 
 <br>You found all the files that contains "Chris"! Congrats!!
 <br>In summary, the grep -l command is a powerful tool that can be used to quickly identify files that match a specific pattern or regular expression, and can be beneficial in a variety of scenarios, including data analysis, automation, filtering, and debugging.
