@@ -12,7 +12,7 @@ Let's first clone this specific repository : https://github.com/ucsd-cse15l-s23/
 <img width="650" alt="Screen Shot 2023-05-10 at 2 22 29 AM" src="https://github.com/lahrry/cse15l-lab-reports/assets/62029893/d9dd1947-4975-4868-9904-eaa9453b784f">
 
 <br>You can see the technical folder inside and we are going to use this for this task!
-<img width="370" alt="Screen Shot 2023-05-10 at 2 29 30 AM" src="https://github.com/lahrry/cse15l-lab-reports/assets/62029893/6040271b-a6f0-4f86-a24d-7c0788d2e3e6">
+<br><img width="370" alt="Screen Shot 2023-05-10 at 2 29 30 AM" src="https://github.com/lahrry/cse15l-lab-reports/assets/62029893/6040271b-a6f0-4f86-a24d-7c0788d2e3e6">
 <br>We can see that there are 4 folders(report, biomed, government, plos) inside the technical directory, each containing variety of text files. 
 
 ## Step 3: First grep command option 
