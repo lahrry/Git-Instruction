@@ -74,19 +74,22 @@ If we run `grep -l water *`, it will search for files in this directory that con
 
 
 ## Step 6: Fourth grep command option 
-### grep [-c] pattern [files]
-`grep -c` : This prints only a count of the lines that match a pattern
-Let's dive in! Use `grep -c` command through water_fees.txt file in the technical/government/Media directory. I'll post the absolute path to this.  /Users/bella/Desktop/git:github/cse15l/src/cse15l/docsearch/technical/government/Media/water_fees.txt 
+### grep [-v] pattern [files]
+`grep -v` : Invert match
+Let's dive in! Use `grep -v` command through water_fees.txt file in the technical/government/Media directory. I'll post the absolute path to this.  /Users/bella/Desktop/git:github/cse15l/src/cse15l/docsearch/technical/government/Media/water_fees.txt 
 
 ### Example One
-If we run `grep -c water water_fees.txt`, it will find the number of lines that matches 'water'. 
-<br><img width="439" alt="Screen Shot 2023-05-10 at 10 54 18 AM" src="https://github.com/lahrry/cse15l-lab-reports/assets/62029893/cd9dfa1b-fc7b-401b-9309-c8039d28da0e">
-<br>You can find the command outputed '9' because there is 9 lines that matches the pattern 'water'. 
+If we run `grep -v water water_fees.txt`, it will output all the text that excludes "water". 
+###### Don't be confused! It won't exclude "Water" it will only exclude lines with the same string. 
+<br><img width="473" alt="Screen Shot 2023-05-10 at 11 20 30 AM" src="https://github.com/lahrry/cse15l-lab-reports/assets/62029893/0bf20346-e3d0-455a-87ef-37aef3cb27ec">
+
+<br>I excluded 'water' because this text was about water but I guess there are more sentences that didn't use 'water' to their sentences :) 
 
 ### Example Two
-<br>Let's find one more example of `grep -c`!
-<br>Try a command `grep -c Chris water_fees.txt`. 
-<img width="439" alt="Screen Shot 2023-05-10 at 10 54 32 AM" src="https://github.com/lahrry/cse15l-lab-reports/assets/62029893/1ed3052f-4956-4d7a-8590-58ae2ecedc1c">
-<br>You can find the command outputed '1' because there is only one line that matches the pattern 'Chris'. 
-<br>We can conclude that `grep -c`command is very useful to quickly count the number of lines in a file that match a specific pattern and can be a valuable tool in analyzing and processing large datasets. 
+<br>Let's find one more example of `grep -v`!
+<br>Try a command `grep -v a water_fees.txt`. 
+<img width="473" alt="Screen Shot 2023-05-10 at 11 24 52 AM" src="https://github.com/lahrry/cse15l-lab-reports/assets/62029893/b52ed940-dc9f-49a8-bed5-40a07c54e5ed">
+
+<br>Most of the sentences will include 'a' in their words so I excluded all the lines that has 'a' in their sentences. We only have 5 lines total! WOW!
+<br>In summary, the grep -v command can be useful in situations where you want to exclude lines that match a specific pattern from the output of a command or a file, and can be combined with other grep options to perform complex searches.
 
