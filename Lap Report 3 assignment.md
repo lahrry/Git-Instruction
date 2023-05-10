@@ -28,3 +28,7 @@ If we run `grep water water_fees.txt`, it will search for lines that has 'water'
 <img width="481" alt="Screen Shot 2023-05-10 at 10 30 57 AM" src="https://github.com/lahrry/cse15l-lab-reports/assets/62029893/3a490245-14fe-483c-a340-574f090a9b9d">
  <br><img width="105" alt="Screen Shot 2023-05-10 at 10 31 19 AM" src="https://github.com/lahrry/cse15l-lab-reports/assets/62029893/a1ac94c1-260d-41bf-a554-ca2e47084034">
 <br>There we go! We found 'water' with capital case too. `grep -i` enables to search for a string case insensitively in the given file. In this case, it matches the words like "Water", "WAter", "WaTER".  
+
+<br>Let's try one more command using `grep -i`. 
+<img width="439" alt="Screen Shot 2023-05-10 at 10 38 51 AM" src="https://github.com/lahrry/cse15l-lab-reports/assets/62029893/0049b157-23f4-4a37-a474-ad277875fb6d">
+In the government folder, I searched 'local' through "Law_Schools.txt" and it searched a sentence that includes "Local" which ignored the case for matching. 
