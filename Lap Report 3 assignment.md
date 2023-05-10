@@ -8,3 +8,6 @@ According to "geeksforgeeks", grep command searches a file for a particular patt
 <br>
 Let's say we have a folder called 'technical' which has a lot of text files in it. 
 In order to view all the files in this folder, we did 
+```java
+find technical/ 
+```
