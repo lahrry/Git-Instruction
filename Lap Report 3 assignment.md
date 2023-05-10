@@ -70,7 +70,7 @@ If we run `grep -l water *`, it will search for files in this directory that con
 <br><img width="345" alt="Screen Shot 2023-05-10 at 11 14 35 AM" src="https://github.com/lahrry/cse15l-lab-reports/assets/62029893/d27652a6-d784-4307-a04b-5b70f58b1f9a">
 
 <br>You found all the files that contains "Chris"! Congrats!!
-<br>In summary, the grep -l command is a powerful tool that can be used to quickly identify files that match a specific pattern or regular expression, and can be beneficial in a variety of scenarios, including data analysis, automation, filtering, and debugging.
+<br>In summary, the `grep -l` command is a powerful tool that can be used to quickly identify files that match a specific pattern or regular expression, and can be beneficial in a variety of scenarios, including data analysis, automation, filtering, and debugging.
 
 
 ## Step 6: Fourth grep command option 
@@ -91,5 +91,5 @@ If we run `grep -v water water_fees.txt`, it will output all the text that exclu
 <img width="473" alt="Screen Shot 2023-05-10 at 11 24 52 AM" src="https://github.com/lahrry/cse15l-lab-reports/assets/62029893/b52ed940-dc9f-49a8-bed5-40a07c54e5ed">
 
 <br>Most of the sentences will include 'a' in their words so I excluded all the lines that has 'a' in their sentences. We only have 5 lines total! WOW!
-<br>In summary, the grep -v command can be useful in situations where you want to exclude lines that match a specific pattern from the output of a command or a file, and can be combined with other grep options to perform complex searches.
+<br>In summary, the `grep -v` command can be useful in situations where you want to exclude lines that match a specific pattern from the output of a command or a file, and can be combined with other grep options to perform complex searches.
 
