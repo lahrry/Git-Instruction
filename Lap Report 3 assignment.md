@@ -23,7 +23,6 @@ Let's say we want to find sentences that includes **'water'**.
 If we run `grep water water_fees.txt`, it will search for lines that has 'water'. 
 <br><img width="479" alt="Screen Shot 2023-05-10 at 10 27 19 AM" src="https://github.com/lahrry/cse15l-lab-reports/assets/62029893/996a54f0-ecef-4b25-bbea-3efad036b18a">
 <br>But I also want to see sentences that includes 'Water' too. 
-
 <br>`grep water water_fees.txt` only search for the word 'water', it doesn't ignores case. 
 <br>Try `grep -i water water_fees.txt`and see the result below. 
 
