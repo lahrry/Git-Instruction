@@ -31,4 +31,4 @@ If we run `grep water water_fees.txt`, it will search for lines that has 'water'
 
 <br>Let's try one more command using `grep -i`. 
 <br><img width="439" alt="Screen Shot 2023-05-10 at 10 38 51 AM" src="https://github.com/lahrry/cse15l-lab-reports/assets/62029893/0049b157-23f4-4a37-a474-ad277875fb6d">
-In the government folder, I searched 'local' through "Law_Schools.txt" and it searched a sentence that includes "Local" which ignored the case for matching. 
+<br>In the government folder, I searched 'local' through "Law_Schools.txt" and it searched a sentence that includes "Local" which ignored the case for matching. 
