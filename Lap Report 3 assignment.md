@@ -39,10 +39,10 @@ If we run `grep water water_fees.txt`, it will search for lines that has 'water'
 Let's dive in! Use `grep -c` command through water_fees.txt file in the technical/government/Media directory. I'll post the absolute path to this.  /Users/bella/Desktop/git:github/cse15l/src/cse15l/docsearch/technical/government/Media/water_fees.txt 
 If we run `grep -c water water_fees.txt`, it will find the number of lines that matches 'water'. 
 <br><img width="439" alt="Screen Shot 2023-05-10 at 10 54 18 AM" src="https://github.com/lahrry/cse15l-lab-reports/assets/62029893/cd9dfa1b-fc7b-401b-9309-c8039d28da0e">
-You can find the command outputed '9' because there is 9 lines that matches the pattern 'water'. 
+<br>You can find the command outputed '9' because there is 9 lines that matches the pattern 'water'. 
 <br>Let's find one more example of `grep -c`!
 <br>Try a command `grep -c Chris water_fees.txt`. 
 <img width="439" alt="Screen Shot 2023-05-10 at 10 54 32 AM" src="https://github.com/lahrry/cse15l-lab-reports/assets/62029893/1ed3052f-4956-4d7a-8590-58ae2ecedc1c">
-You can find the command outputed '1' because there is only one line that matches the pattern 'Chris'. 
+<br>You can find the command outputed '1' because there is only one line that matches the pattern 'Chris'. 
 <br>We can conclude that `grep -c`command is very useful to quickly count the number of lines in a file that match a specific pattern and can be a valuable tool in analyzing and processing large datasets. 
 
