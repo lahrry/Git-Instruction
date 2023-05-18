@@ -84,7 +84,7 @@ If we run `grep -l water *`, it will search for files in this directory that con
 
 <br>You found all the files that contains "Chris"! Congrats!!
 ###### According to ChatGPT, 
-<br>In summary, the `grep -l` command is a powerful tool that can be used to quickly identify files that match a specific pattern or regular expression, and can be beneficial in a variety of scenarios, including data analysis, automation, filtering, and debugging.
+In summary, the `grep -l` command is a powerful tool that can be used to quickly identify files that match a specific pattern or regular expression, and can be beneficial in a variety of scenarios, including data analysis, automation, filtering, and debugging.
 
 
 ## Step 6: Fourth grep command option 
@@ -107,5 +107,5 @@ If we run `grep -v water water_fees.txt`, it will output all the text that exclu
 
 <br>Most of the sentences will include 'a' in their words so I excluded all the lines that has 'a' in their sentences. We only have 5 lines total! WOW!
 ###### According to ChatGPT, 
-<br>In summary, the `grep -v` command can be useful in situations where you want to exclude lines that match a specific pattern from the output of a command or a file, and can be combined with other grep options to perform complex searches.
+In summary, the `grep -v` command can be useful in situations where you want to exclude lines that match a specific pattern from the output of a command or a file, and can be combined with other grep options to perform complex searches.
 
