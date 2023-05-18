@@ -6,11 +6,14 @@ Let's dive into "grep" command!
 <br>
 <br>
 ###### Citation : the context of ChatGpt & GeeksforGeeks pages was partially referenced.
+###### GeeksforGeeks:
+######  "GeeksforGeeks." GeeksforGeeks grep command, https://www.geeksforgeeks.org/grep-command-in-unixlinux/.
+
+###### ChatGPT (OpenAI):
+###### OpenAI. "ChatGPT." OpenAI, OpenAI, openai.com/models/gpt-3.5, https://chat.openai.com/. 
                   
 ## Step 1: What is "grep" ?
 According to "geeksforgeeks", grep command searches a file for a particular pattern of characters, and displays all lines that contain that pattern.
-
-
 
 ## Step 2: Clone docsearch repository
 Let's first clone this specific repository : https://github.com/ucsd-cse15l-s23/docsearch.git.
