@@ -39,6 +39,7 @@ If we run `grep water water_fees.txt`, it will search for lines that has 'water'
 
 ## Step 4: Second grep command option 
 ### grep [-c] pattern [files]
+###### According to GeeksforGeeks,
 `grep -c` : This prints only a count of the lines that match a pattern
 Let's dive in! Use `grep -c` command through water_fees.txt file in the technical/government/Media directory. I'll post the absolute path to this.  /Users/bella/Desktop/git:github/cse15l/src/cse15l/docsearch/technical/government/Media/water_fees.txt 
 
@@ -57,6 +58,7 @@ If we run `grep -c water water_fees.txt`, it will find the number of lines that 
 
 ## Step 5: Third grep command option 
 ### grep [-l] pattern [files]
+###### According to GeeksforGeeks,
 `grep -l` : Output matching files only. 
 Let's dive in! Use `grep -l` command through all files in Media folder. 
 
@@ -77,6 +79,7 @@ If we run `grep -l water *`, it will search for files in this directory that con
 
 ## Step 6: Fourth grep command option 
 ### grep [-v] pattern [files]
+###### According to GeeksforGeeks,
 `grep -v` : Invert match
 Let's dive in! Use `grep -v` command through water_fees.txt file in the technical/government/Media directory. I'll post the absolute path to this.  /Users/bella/Desktop/git:github/cse15l/src/cse15l/docsearch/technical/government/Media/water_fees.txt 
 
