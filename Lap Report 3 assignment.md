@@ -18,6 +18,7 @@ Let's first clone this specific repository : https://github.com/ucsd-cse15l-s23/
 
 ## Step 3: First grep command option 
 ### grep [-i] pattern [files]
+**** According to GeeksforGeeks,****
 `grep -i` : Ignores, case for matching 
 We are going to compare `grep` and `grep -i` command using water_fees.txt file in the technical/government/Media directory. I'll post the absolute path to this.  /Users/bella/Desktop/git:github/cse15l/src/cse15l/docsearch/technical/government/Media/water_fees.txt 
 ### Example One
