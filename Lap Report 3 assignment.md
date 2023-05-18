@@ -3,9 +3,14 @@ Today we are going to learn about a specific command with examples.
 We learned about three basic things to count text files(.txt) 
 1.find 2.less 3.grep 
 Let's dive into "grep" command!
+<br>
+<br>
+###### Citation : the context of ChatGpt & GeeksforGeeks pages was partially referenced.
+                  
 ## Step 1: What is "grep" ?
 According to "geeksforgeeks", grep command searches a file for a particular pattern of characters, and displays all lines that contain that pattern.
-<br>The site that I refered is, "grep command in Unix/Linux." GeeksforGeeks, https://www.geeksforgeeks.org/grep-command-in-unixlinux/.
+
+
 
 ## Step 2: Clone docsearch repository
 Let's first clone this specific repository : https://github.com/ucsd-cse15l-s23/docsearch.git.
