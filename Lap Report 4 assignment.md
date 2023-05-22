@@ -47,11 +47,11 @@ The error was here! to move up, I clicked ```< k >``` 6 times to move to line 44
 <br>```<i>```command was made to get access to edit in vim. Then ```< -> >```(shift-right key),```<spacebar>```, ```< <- >```(shift-left key) was made to make space to insert '2' in the original '1' place. 2 was typed and we need to get out of this --insert-- page. In order to do that, ```<esc>``` command was clicked. Also, to save the files ```<:wq!>```,```<enter>```command was clicked. 
 
 
-
-
 ### Step 5
 ```Run the tests, demonstrating that they now succeed```
-
+**Keys Pressed**
+: ```<up>``` ```<up>``` ```<up>``` The ```javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java``` command was 3 up in the search history from my previous lab history. Then ```java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore ListExamplesTests``` command was 3 up in the history, so I accessed and ran it in the same way. 
+<br><img width="563" alt="Screen Shot 2023-05-21 at 7 46 20 PM" src="https://github.com/lahrry/cse15l-lab-reports/assets/62029893/9c914d37-e0e5-4649-9ec1-b77d19be63e4">
 
 ### Step 6
 ```Commit and push the resulting change to your Github account```
