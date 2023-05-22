@@ -56,11 +56,7 @@ The error was here! to move up, I clicked ```< k >``` 6 times to move to line 44
 ### Step 6
 ```Commit and push the resulting change to your Github account```
 
-
-
-
-
-
+<img width="485" alt="Screen Shot 2023-05-22 at 6 26 32 AM" src="https://github.com/lahrry/cse15l-lab-reports/assets/62029893/e4ab6100-40a2-402c-acca-ae23159691df">
 
 
 
