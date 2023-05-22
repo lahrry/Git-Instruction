@@ -10,7 +10,7 @@ First open your terminal as we did in report 1 and log into your ieng6 account.<
 
 <br>
 **Keys Pressed**
-: ```<up>``` ```<up>``` ```<up>``` ```<up>``` ```<enter>``` The ```ssh cs15lsp23an@ieng6.ucsd.edu``` command was 4 up in the search history from my previous lab history.
+: ```<up>```  ```<up>```  ```<up>```  ```<up>```  ```<enter>``` The ```ssh cs15lsp23an@ieng6.ucsd.edu``` command was 4 up in the search history from my previous lab history.
 
 
 ### Step 2
