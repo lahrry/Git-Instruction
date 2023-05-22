@@ -9,9 +9,8 @@ First open your terminal as we did in report 1 and log into your ieng6 account.<
 ###### Your should enter your password like before. I made a ssh keys for ieng6 account so that's why I can get logged in automatically :)
 
 <br>
-**Keys Pressed** <br>
-: 
-```<up>``` ```<up>``` ```<up>``` ```<up>``` ```<enter>```, 
+**Keys Pressed** 
+:```<up>``` ```<up>``` ```<up>``` ```<up>``` ```<enter>```, 
 The ```ssh cs15lsp23an@ieng6.ucsd.edu``` command was 4 up in the search history from my previous lab history.
 
 
