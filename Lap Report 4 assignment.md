@@ -42,7 +42,7 @@ To edit the code, type ```vim ListExamples.java``` and you will see the followin
 <br><img width="563" alt="Screen Shot 2023-05-21 at 7 19 53 PM" src="https://github.com/lahrry/cse15l-lab-reports/assets/62029893/45d78a22-8e1f-4d30-92c8-8d6064f5ae61"><br>
 
 <br>
-The error was here! to move up, I clicked```< k >```6 times to move to line 44 from the end line. Then I clicked ```<l>``` 10 times to move to the right to delete '1' in 'index1'. To do that, I pressed ```<dw>``` to delete one word '1'. 
+The error was here! to move up, I clicked ```< k >``` 6 times to move to line 44 from the end line. Then I clicked ```< l >``` 10 times to move to the right to delete '1' in 'index1'. To do that, I pressed ```<dw>``` to delete one word '1'. 
 <br><img width="563" alt="Screen Shot 2023-05-21 at 7 26 02 PM" src="https://github.com/lahrry/cse15l-lab-reports/assets/62029893/6a4a41b5-0c60-4ed6-8606-50a8ed6487d9">
 <br>```<i>```command was made to get access to edit in vim. Then ```< -> >```(shift-right key),```<spacebar>```, ```< <- >```(shift-left key) was made to make space to insert '2' in the original '1' place. 2 was typed and we need to get out of this --insert-- page. In order to do that, ```<esc>``` command was clicked. Also, to save the files ```<:wq!>```,```<enter>```command was clicked. 
 
