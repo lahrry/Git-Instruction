@@ -19,4 +19,23 @@ Next, go back to your terminal that you logged in and type the HTTPS (https://gi
 **Keys Pressed**
 : From typing ```mkdir LABREPORT4``` I made a new folder to clone the repository and ```<enter>```. I typed ```git clone``` in the next command statement and ```<Command-V>``` to paste the HTTPS link. ```ls``` ```<enter>``` to check the folder made. ```cd``` ```<enter>``` to go into the 'lab7' folder. ```<up>``` ```<enter>```command was 1 up in the search history, so I used up arrow to access it. 
 
+### Step 3
+```Run the tests, demonstrating that they fail```
+
+**Keys Pressed**
+: ```<up>``` ```<up>``` ```<up>``` ```<up>``` ```<up>``` ```<enter>```, ```<up>``` ```<up>``` ```<up>``` ```<up>``` ```<up>``` ```<enter>``` The ```javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java``` command was 5 up in the search history from my previous lab history. Then ```java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore ListExamplesTests``` command was 5 up in the history, so I accessed and ran it in the same way. 
+
+<br><img width="563" alt="Screen Shot 2023-05-21 at 7 09 49 PM" src="https://github.com/lahrry/cse15l-lab-reports/assets/62029893/a1445128-f2a5-4e3b-8003-a211a3d9fd9d"><br>
+We can see that we have a 1 failure. So we need to change a code for test to run successfully!
+
+
+
+
+
+
+
+
+
+
+
 
