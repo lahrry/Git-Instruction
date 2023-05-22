@@ -49,6 +49,7 @@ The error was here! to move up, I clicked ```< k >``` 6 times to move to line 44
 
 ### Step 5
 ```Run the tests, demonstrating that they now succeed```
+
 **Keys Pressed**
 : ```<up>``` ```<up>``` ```<up>``` The ```javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java``` command was 3 up in the search history from my previous lab history. Then ```java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore ListExamplesTests``` command was 3 up in the history, so I accessed and ran it in the same way. 
 <br><img width="563" alt="Screen Shot 2023-05-21 at 7 46 20 PM" src="https://github.com/lahrry/cse15l-lab-reports/assets/62029893/9c914d37-e0e5-4649-9ec1-b77d19be63e4">
@@ -56,7 +57,22 @@ The error was here! to move up, I clicked ```< k >``` 6 times to move to line 44
 ### Step 6
 ```Commit and push the resulting change to your Github account```
 
-<img width="485" alt="Screen Shot 2023-05-22 at 6 26 32 AM" src="https://github.com/lahrry/cse15l-lab-reports/assets/62029893/e4ab6100-40a2-402c-acca-ae23159691df">
+Now that we changed the errors of java file, we saved the modified file with the command ```<:wq!>```. Now we are going to push this changed files back to our github repository. We need to do ```git add```, ```git commit -m " "```, and ```git push``` in order to push the files. 
+Let's look at the terminal! 
+<br> <img width="559" alt="Screen Shot 2023-05-22 at 6 34 31 AM" src="https://github.com/lahrry/cse15l-lab-reports/assets/62029893/71f8f94a-0616-4d6f-9865-cb34208182a5">
+<br> <img width="559" alt="Screen Shot 2023-05-22 at 6 34 51 AM" src="https://github.com/lahrry/cse15l-lab-reports/assets/62029893/7a878350-7ae1-439c-b076-bfccc291225e">
+<br> <img width="559" alt="Screen Shot 2023-05-22 at 6 35 37 AM" src="https://github.com/lahrry/cse15l-lab-reports/assets/62029893/57b2f28b-0f50-4fcc-ae2c-0c6e35a5ce3c">
+<br><img width="559" alt="Screen Shot 2023-05-22 at 6 35 58 AM" src="https://github.com/lahrry/cse15l-lab-reports/assets/62029893/858884a1-fb47-4403-8fee-9966f4fa0eec">
+
+
+
+**Keys Pressed**
+: ```<git status>``` command was made to check the location of my current branch is in main branch. We can check that 'ListExamples.java' file is modified and other files are not changed. Then do ```<git add .>``` command to add all the files that we changed. **'.' is after a ```<spacebar>``` : it means to add 'all' the files** After that ```<git commit -m "modified">``` command was done. In " ", we can use it as memo where we can inform what action we did about this file. When we are using github projects, it is useful for teammates or the developers to know the issues. Lastly, ```<git push>``` command was held to push all the changed files. <br>
+
+After we do ```<git push>```, it lets us to log in to your personal github account so you should know your username and password for your own github page! 
+<br>
+
+Now you have done all the steps! GREAT JOB!
 
 
 
