@@ -12,7 +12,7 @@ First open your terminal as we did in report 1 and log into your ieng6 account.<
 Make a fork of the lab7 : https://github.com/ucsd-cse15l-s23/lab7 on your Github account. 
 <br><img width="983" alt="Screen Shot 2023-05-21 at 6 41 40 PM" src="https://github.com/lahrry/cse15l-lab-reports/assets/62029893/ae1019ff-7c20-4a97-8c61-a9b2620692bd">
 Click the green button "code" and make a copy of HTTPS.
-<br><img width="424" alt="Screen Shot 2023-05-21 at 6 42 25 PM" src="https://github.com/lahrry/cse15l-lab-reports/assets/62029893/acaea929-6ed7-46f3-ad8e-5bc40fc81d9b">
+<br><img width="424" alt="Screen Shot 2023-05-21 at 6 42 25 PM" src="https://github.com/lahrry/cse15l-lab-reports/assets/62029893/acaea929-6ed7-46f3-ad8e-5bc40fc81d9b"><br>
 Next, go back to your terminal that you logged in and type the HTTPS (https://github.com/ucsd-cse110-sp23/lab7.git) after git clone command. So it will be like ```git clone https://github.com/ucsd-cse110-sp23/lab7.git```
 <br><img width="563" alt="Screen Shot 2023-05-21 at 6 50 44 PM" src="https://github.com/lahrry/cse15l-lab-reports/assets/62029893/f6997bd9-3c15-4234-a8d7-77e9f5d9d5fe"><br>
 
