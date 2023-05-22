@@ -14,18 +14,6 @@ First open your terminal as we did in report 1 and log into your ieng6 account.<
 ```
 <up>
 ``` 
-```
-<up>
-```
-```
-<up>
-``` 
-```
-<up>
-``` 
-```
-<enter>
-``` 
 The 
 ```
 ssh cs15lsp23an@ieng6.ucsd.edu
