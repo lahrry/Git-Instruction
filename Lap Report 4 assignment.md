@@ -10,6 +10,7 @@ First open your terminal as we did in report 1 and log into your ieng6 account.<
 
 ### Step 2
 ```Clone your fork of the repository from your Github account```
+<br>
 Make a fork of the lab7 : https://github.com/ucsd-cse15l-s23/lab7 on your Github account. 
 <br><img width="983" alt="Screen Shot 2023-05-21 at 6 41 40 PM" src="https://github.com/lahrry/cse15l-lab-reports/assets/62029893/ae1019ff-7c20-4a97-8c61-a9b2620692bd">
 Click the green button "code" and make a copy of HTTPS.
