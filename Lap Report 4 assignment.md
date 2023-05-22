@@ -38,7 +38,7 @@ To edit the code, type ```vim ListExamples.java``` and you will see the followin
 <br><img width="563" alt="Screen Shot 2023-05-21 at 7 15 11 PM" src="https://github.com/lahrry/cse15l-lab-reports/assets/62029893/8a0f5d01-794b-4c95-b398-f5edc7241ac5"><br>
 
 **Keys Pressed**
-: ```< j >``` ```< j >``` ```<j>``` ```<j>``` ```<j>``` ```<j>```  by clicking ```<j>``` key 6 times, it went down through the pages. However, I was thinking I want to look at the end of the line. So by clicking ```<Ctrl-E>```, I could see the end of the line which moved the cursor to the last. 
+: By clicking ```< j >``` key 6 times, it went down through the pages. However, I was thinking I want to look at the end of the line. So by clicking ```<Ctrl-E>```, I could see the end of the line which moved the cursor to the last. 
 <br><img width="563" alt="Screen Shot 2023-05-21 at 7 19 53 PM" src="https://github.com/lahrry/cse15l-lab-reports/assets/62029893/45d78a22-8e1f-4d30-92c8-8d6064f5ae61"><br>
 
 <br>
