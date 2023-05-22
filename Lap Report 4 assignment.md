@@ -3,6 +3,7 @@
 
 ### Step 1
 ```Log into ieng6```
+<br>
 First open your terminal as we did in report 1 and log into your ieng6 account.<br> 
 <br><img width="422" alt="Screen Shot 2023-05-21 at 6 33 57 PM" src="https://github.com/lahrry/cse15l-lab-reports/assets/62029893/ac68f613-d303-4914-a662-19e87654fad9">
 ###### Your should enter your password like before. I made a ssh keys for ieng6 account so that's why I can get logged in automatically :)
@@ -24,6 +25,7 @@ Next, go back to your terminal that you logged in and type the HTTPS (https://gi
 
 ### Step 3
 ```Run the tests, demonstrating that they fail```
+<br>
 
 **Keys Pressed**
 : ```<up>``` ```<up>``` ```<up>``` ```<up>``` ```<up>``` ```<enter>```, ```<up>``` ```<up>``` ```<up>``` ```<up>``` ```<up>``` ```<enter>``` The ```javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java``` command was 5 up in the search history from my previous lab history. Then ```java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore ListExamplesTests``` command was 5 up in the history, so I accessed and ran it in the same way. 
@@ -34,6 +36,7 @@ Next, go back to your terminal that you logged in and type the HTTPS (https://gi
 
 ### Step 4
 ```Edit the code file ListExamples.java to fix the failing test (as a reminder, the error in the code is just that index1 is used instead of index2 in the final loop in merge)```
+<br>
 
 To edit the code, type ```vim ListExamples.java``` and you will see the following page. 
 <br><img width="563" alt="Screen Shot 2023-05-21 at 7 15 11 PM" src="https://github.com/lahrry/cse15l-lab-reports/assets/62029893/8a0f5d01-794b-4c95-b398-f5edc7241ac5"><br>
@@ -50,6 +53,7 @@ The error was here! to move up, I clicked ```< k >``` 6 times to move to line 44
 
 ### Step 5
 ```Run the tests, demonstrating that they now succeed```
+<br>
 
 **Keys Pressed**
 : ```<up>``` ```<up>``` ```<up>``` The ```javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java``` command was 3 up in the search history from my previous lab history. Then ```java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore ListExamplesTests``` command was 3 up in the history, so I accessed and ran it in the same way. 
@@ -57,6 +61,7 @@ The error was here! to move up, I clicked ```< k >``` 6 times to move to line 44
 
 ### Step 6
 ```Commit and push the resulting change to your Github account```
+<br>
 
 Now that we changed the errors of java file, we saved the modified file with the command ```<:wq!>```. Now we are going to push this changed files back to our github repository. We need to do ```git add```, ```git commit -m " "```, and ```git push``` in order to push the files. 
 Let's look at the terminal! 
