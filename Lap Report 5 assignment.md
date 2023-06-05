@@ -63,7 +63,7 @@ this command,
 ```
 [With Bug]
 ```
-<img width="697" alt="Screen Shot 2023-06-04 at 10 01 17 PM" src="https://github.com/lahrry/cse15l-lab-reports/assets/62029893/b766f5bc-6959-4728-8510-5c87b98b00e3">
+<img width="701" alt="Screen Shot 2023-06-04 at 10 04 29 PM" src="https://github.com/lahrry/cse15l-lab-reports/assets/62029893/aacb3bb2-78b1-4068-89d9-926830e5f60e">
 
 ```
 [With Fixed Code]
