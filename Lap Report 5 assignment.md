@@ -36,15 +36,18 @@ Re: Issue with reversed() method in ArrayExamples.java
 Hi, Bella this is John again and thank you for helping me out. I will share what I have in my ArrayExamples.java code:
 <img width="581" alt="Screen Shot 2023-06-04 at 9 17 48 PM" src="https://github.com/lahrry/cse15l-lab-reports/assets/62029893/44f8411c-6f02-456a-bb5f-d66f565a303b">
 
- I think I had a minor mistake in my reversed() method implementation. 
+ I think I had a minor mistake in my reversed() method implementation. In the original code that I wrote, the reversed value should have assign to "newArray" however, it was assigning to "arr" instead. So I fixed my code: 
+ <img width="582" alt="Screen Shot 2023-06-04 at 9 34 00 PM" src="https://github.com/lahrry/cse15l-lab-reports/assets/62029893/21965e36-c7df-46c7-b27b-cf27bc7b089a">
+
 
 Also, the commands that you told me to run: 
 <img width="895" alt="Screen Shot 2023-06-04 at 9 19 28 PM" src="https://github.com/lahrry/cse15l-lab-reports/assets/62029893/cca5ec7a-e6f3-4b5e-9795-8344890fb0aa">
 
 But I made a bash script which was very convinient to use everytime I test my codes. I will attach how I made a bash script and the result of running it:
 <img width="760" alt="Screen Shot 2023-06-04 at 9 28 59 PM" src="https://github.com/lahrry/cse15l-lab-reports/assets/62029893/78986ad6-c882-42fe-b1b5-da38211f7f6e"> <br>
-
-<img width="751" alt="Screen Shot 2023-06-04 at 9 29 32 PM" src="https://github.com/lahrry/cse15l-lab-reports/assets/62029893/2ef0bde6-21f3-435d-8e54-9e8ccbf8d2d0">
+Now after fixing my bugs, all the test passed!
+:
+<img width="209" alt="Screen Shot 2023-06-04 at 9 35 22 PM" src="https://github.com/lahrry/cse15l-lab-reports/assets/62029893/4a7ebca0-0a6e-451b-b82e-d6c7e18ff4bd">
 
 
 
