@@ -23,16 +23,9 @@ java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnit
 ```
 After running the bash script in your terminal, try: 
 ```java
-bash-3.2$ javac ArrayTests.java
 bash-3.2$ echo $?
 ```
-If you have an error it will show 1 if not 0. 
-Then do, 
-```java
-bash-3.2$ javac ArrayTests.java 2> test.txt
-bash-3.2$ cat test.txt
-```
-this will send std err to the test.txt file. It will be easy for you to check the error in the file. 
+This will tell you have an error it will show 1 if not 0. You can use this in order to check quickly if you have an error or not.  
 
 Please share the result after running these commands so that I can figure out what exact problem you have. 
 
@@ -57,12 +50,28 @@ Hi, Bella this is John again and thank you for helping me out. I will share what
 Also, the commands that you told me to run: 
 <img width="895" alt="Screen Shot 2023-06-04 at 9 19 28 PM" src="https://github.com/lahrry/cse15l-lab-reports/assets/62029893/cca5ec7a-e6f3-4b5e-9795-8344890fb0aa">
 
-But I made a bash script which was very convinient to use everytime I test my codes. I will attach how I made a bash script and the result of running it before I fixed my code:
+But I made a bash script which was very convinient to use everytime I test my codes. I will attach how I made a bash script:<br><img width="744" alt="Screen Shot 2023-06-04 at 9 51 27 PM" src="https://github.com/lahrry/cse15l-lab-reports/assets/62029893/03455482-80ab-4a89-9d32-c4c3e040ebbc">
 
-<img width="760" alt="Screen Shot 2023-06-04 at 9 28 59 PM" src="https://github.com/lahrry/cse15l-lab-reports/assets/62029893/78986ad6-c882-42fe-b1b5-da38211f7f6e"> <br>
-Now after fixing my bugs, all the test passed!
-:
+This is the result of running the bash script:
 <img width="209" alt="Screen Shot 2023-06-04 at 9 35 22 PM" src="https://github.com/lahrry/cse15l-lab-reports/assets/62029893/4a7ebca0-0a6e-451b-b82e-d6c7e18ff4bd">
+
+After running 
+```java
+bash-3.2$ echo $?
+```
+this command, 
+```
+[With Bug]
+```
+<img width="697" alt="Screen Shot 2023-06-04 at 10 01 17 PM" src="https://github.com/lahrry/cse15l-lab-reports/assets/62029893/b766f5bc-6959-4728-8510-5c87b98b00e3">
+
+```
+[With Fixed Code]
+```
+<img width="697" alt="Screen Shot 2023-06-04 at 10 02 19 PM" src="https://github.com/lahrry/cse15l-lab-reports/assets/62029893/489378ee-97dc-49e0-bc9d-895d8e0384df">
+
+
+
 
 
 
