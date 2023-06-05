@@ -5,8 +5,9 @@
 <br>
 <br>
 ###### TA Response
+
 Re: Solving issue with reversed() method in ArrayExamples.java debugging
-<br>
+
 Hi this is Bella Jeong who is cs15l tutor and thank you for reaching me out. 
 I will be helping you out of this problem!
 
