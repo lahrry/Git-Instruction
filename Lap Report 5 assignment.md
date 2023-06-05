@@ -19,6 +19,8 @@ Please share the result after running these commands so that I can figure out wh
 Best Regards, <br>
 <br>Bella Jeong. 
 
+
+
 ###### Student's Response
 
 Re: Issue with reversed() method in ArrayExamples.java 
