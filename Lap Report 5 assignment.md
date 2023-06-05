@@ -21,7 +21,6 @@ test.sh
 javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar ArrayExamples.java
 java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore ArrayTests
 ```
-Everytime you test your code, run the bash file and tell me how you did it!
 
 Please share the result after running these commands so that I can figure out what exact problem you have. 
 
@@ -41,6 +40,11 @@ Hi, Bella this is John again and thank you for helping me out. I will share what
 
 Also, the commands that you told me to run: 
 <img width="895" alt="Screen Shot 2023-06-04 at 9 19 28 PM" src="https://github.com/lahrry/cse15l-lab-reports/assets/62029893/cca5ec7a-e6f3-4b5e-9795-8344890fb0aa">
+
+But I made a bash script which was very convinient to use everytime I test my codes. I will attach how I made a bash script and the result of running it:
+<img width="760" alt="Screen Shot 2023-06-04 at 9 28 59 PM" src="https://github.com/lahrry/cse15l-lab-reports/assets/62029893/78986ad6-c882-42fe-b1b5-da38211f7f6e"> <br>
+
+<img width="751" alt="Screen Shot 2023-06-04 at 9 29 32 PM" src="https://github.com/lahrry/cse15l-lab-reports/assets/62029893/2ef0bde6-21f3-435d-8e54-9e8ccbf8d2d0">
 
 
 
