@@ -70,7 +70,9 @@ this command,
 ```
 <img width="697" alt="Screen Shot 2023-06-04 at 10 02 19 PM" src="https://github.com/lahrry/cse15l-lab-reports/assets/62029893/489378ee-97dc-49e0-bc9d-895d8e0384df">
 
-#Reflection
+
+# Reflection
+
 The most interesting thing that I learned from my lab experience is when we learned about server.java and local host. That time I didn't know how to handle code in java that much so I asked to TAs a lot for help. Once I knew that I can control URL and local host server with java code in VSCode, it was amazing experience. I think that was the turning point of this course that I got more interest in coding/computer science. It thrilled be to learn many new things like making autograder, bash script, learning about vim and all of them. This class and lab is the most useful course that I have taken before. Thank you for teaching us useful sources:)
 
 
