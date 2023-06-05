@@ -15,12 +15,24 @@ Also, try to run these two following commands in your terminal : <br>
 ```java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore ArrayTests```
 
 Or if it's cumbersome to run these two commands every time you test, try creating a bash script.
-I'll give you an example of the bash script:
+I'll give you an example of the bash script "arraytest.sh":
 ```java
-test.sh
+set -e
 javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar ArrayExamples.java
 java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore ArrayTests
 ```
+After running the bash script in your terminal, try: 
+```java
+bash-3.2$ javac ArrayTests.java
+bash-3.2$ echo $?
+```
+If you have an error it will show 1 if not 0. 
+Then do, 
+```java
+bash-3.2$ javac ArrayTests.java 2> test.txt
+bash-3.2$ cat test.txt
+```
+this will send std err to the test.txt file. It will be easy for you to check the error in the file. 
 
 Please share the result after running these commands so that I can figure out what exact problem you have. 
 
