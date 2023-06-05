@@ -21,7 +21,7 @@ test.sh
 javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar ArrayExamples.java
 java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore ArrayTests
 ```
-
+Everytime you test your code, run the bash file and tell me how you did it!
 
 Please share the result after running these commands so that I can figure out what exact problem you have. 
 
