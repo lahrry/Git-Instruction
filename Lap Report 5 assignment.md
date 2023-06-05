@@ -68,7 +68,7 @@ this command,
 ```
 [With Fixed Code]
 ```
-<img width="697" alt="Screen Shot 2023-06-04 at 10 02 19 PM" src="https://github.com/lahrry/cse15l-lab-reports/assets/62029893/489378ee-97dc-49e0-bc9d-895d8e0384df">
+<img width="697" alt="Screen Shot 2023-06-04 at 10 02 19 PM" src="https://github.com/lahrry/cse15l-lab-reports/assets/62029893/489378ee-97dc-49e0-bc9d-895d8e0384df"> <br>
 
 # Reflection
 =>
