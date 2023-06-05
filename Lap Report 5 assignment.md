@@ -17,7 +17,7 @@ Also, try to run these two following commands in your terminal : <br>
 Please share the result after running these commands so that I can figure out what exact problem you have. 
 
 Best Regards, <br>
-<br>Bella Jeong. 
+<br>Bella Jeong. <br><br>
 
 
 
