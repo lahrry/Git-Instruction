@@ -10,13 +10,13 @@ Hi John, this is Bella Jeong who is your tutor and thank you for reaching me out
 I will be helping you out with this problem today! 
 As I can see, I don't think there are any problems in your ArrayTests.java file however, I think there could be an error in your ArrayExamples.java code, specifically in reversed() method. Can you please share your whole ArrayExamplese.java code? 
 
-Also, try to run these two following commands in your terminal :
-```javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar ArrayExamples.java```
+Also, try to run these two following commands in your terminal : <br>
+```javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar ArrayExamples.java``` <br>
 ```java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore ArrayTests```
 
 Please share the result after running these commands so that I can figure out what exact problem you have. 
 
-Best Regards,
+Best Regards, <br>
 Bella Jeong. 
 
 ###### Student's Response
