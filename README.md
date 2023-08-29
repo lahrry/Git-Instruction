@@ -4,13 +4,12 @@ This repository contains a set of instructions to help you understand and use Gi
 
 ## Table of Contents
 
-1-Remote-Access.md <br>
-2-Servers and Bugs.md <br>
-3-Grep command.md <br>
-4-Vim Control.md <br>
-5-Debugging.md
+1. [Remote-Access](#Remote-Access)
+2. [Servers-and-Bugs](#Servers-and-Bugs)
+3. [Grep-command](#Grep-command)
+4. [Vim-Control](#Vim-Control)
+5. [Debugging](#Debugging)
 
-## Introduction
 
 Git is a distributed version control system designed to handle everything from small to very large projects with speed and efficiency. It is used for tracking changes in any set of files, usually used for coordinating work among programmers collaboratively developing source code during software development.
 
