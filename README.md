@@ -4,8 +4,11 @@ This repository contains a set of instructions to help you understand and use Gi
 
 ## Table of Contents
 
-1. [Remote Access](#RemoteAccess)
-2. [Servers and Bugs](#ServersandBugs)
+1-Remote-Access.md
+2-Servers and Bugs.md
+3-Grep command.md
+4-Vim Control.md
+5-Debugging.md
 
 ## Introduction
 
